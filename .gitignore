@@ -37,3 +37,7 @@ build/*
 
 # OS X stuff
 ._*
+
+# mimic data
+NOTEEVENTS*
+*mimic*
