@@ -40,7 +40,7 @@ def evaluate_vectors(W, vocab, ivocab):
         'city-in-state.txt', 'family.txt', 'gram1-adjective-to-adverb.txt',
         'gram2-opposite.txt', 'gram3-comparative.txt', 'gram4-superlative.txt',
         'gram5-present-participle.txt', 'gram6-nationality-adjective.txt',
-        'gram7-past-tense.txt', 'gram8-plural.txt', 'gram9-plural-verbs.txt', 'mimic_notes_100.txt',
+        'gram7-past-tense.txt', 'gram8-plural.txt', 'gram9-plural-verbs.txt','mimic_notes_100.txt',
         ]
     prefix = './eval/question-data/'
 

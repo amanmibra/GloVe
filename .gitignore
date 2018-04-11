@@ -41,3 +41,9 @@ build/*
 # mimic data
 NOTEEVENTS*
 *mimic*
+
+# demo
+*bin
+*text8*
+vectors.txt
+vocab.txt
