@@ -47,3 +47,6 @@ NOTEEVENTS*
 *text8*
 vectors.txt
 vocab.txt
+
+# train.py
+*model
